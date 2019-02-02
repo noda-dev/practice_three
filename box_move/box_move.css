@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  /* display:blockがないと変な隙間ができるよ */
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: blue;
+}
